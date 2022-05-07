@@ -2,7 +2,7 @@
 
 ## 💻✨ CTD : Primeiro Bimestre 
 ## 📃✨ Disciplina: Front End 1  
-## 👩‍💻💻 __Aula 03 -  WIREFRAMES__
+## 👩‍💻💻 __Aula 03: WIREFRAMES__
 
 <br>
 
